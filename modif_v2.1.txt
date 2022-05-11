@@ -1,0 +1,10 @@
+version 2.1
+partie b:
+mettre auteur dans la table utilisateur
+attribuer un auteur a une formations dans l'ajout de la formations
+
+partie c:
+pouvoir mettre un administrateur de la table utilisateur en super administrateur qui pourras ajouter des super administrateur
+faire un champ en plus
+faire une requete qui permet de voir quel utilisateur est super administrateur
+empecher d'autre utilisateur d'acceder au bouton pour rajouter des super administrateur

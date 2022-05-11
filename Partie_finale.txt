@@ -1,0 +1,29 @@
+﻿Modifier le nom de mes fenetre en c# FAIT
+
+
+
+v3:
+mettre en place des formations qui delivre une certification:
+-rajouter dans la bdd un champs pour dire si il y a certif ou non FAIT
+-faire en sorte que la certif soit delivrer seulement pour les inscrit:
+	-mettre la certif que sur des video exclu pour les inscrit
+-trouver des certification pdf ou les faire
+-faire en sorte dans le php de voir qui a suivi la formations en entier: faire un bouton a la fin de la formations par exemple
+-pouvoir ouvrir un pdf depuis le c# ou php et pouvoir le telecharger
+-rajouter en c# dans les formations si celle-ci est certifiable ou non avec un bouton FAIT
+
+
+
+Presantation finale:
+-Rappeller le contexte du projet, les objectifs, tous les outils que l'on à utiliser.
+-presenter le trello avec la duree des taches (si on a pas la flemme)
+-Presenter toutes la base de donnée avec tous les changement fais au cours des nouvelles version.
+-Justifier pourquoi on a choisi deux compte pour la bdd + comment on a mis en place le serveur et les outils qu'on a mis dessus
+-Faire un jeu d'essaie pour le c# et le php (mettre au moins 30 formations), expliquer grace au jeu d'essaie sans trop montrer le code je crois.
+-Montrer que le code n'a pas de probleme de securiter (verifier avec la methode owasp)
+-Conclure avec nos appreciations sur le projet, les difficulter rencontrée, les solution apporter et notre appreciation finale
+
+
+
+Jeu d'essai avec 30 formation:
+-

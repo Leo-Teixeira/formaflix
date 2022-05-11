@@ -1,0 +1,17 @@
+Version 2.1 c#: Gestion des commentaires et ajout d'auteurs
+
+a:
+Dans la base de donnée:
+-Faire une table commentaire avec IDCOMMENTAIRE , LIBELLECOMMENTAIRE , NOTECOMMENTAIRE, STATUSCOMMENTAIRE.
+-Faire une table qui lie les tables commentaire et utilisateur
+
+Dans c#:
+-Faire un form avec la possibiliter de changer le status d'un commentaire
+-Faire un form avec la liste de tous les commentaire (faire avec un dvg)
+
+b:
+Dans la base de donnée:
+-ajouter dans la table formation un champs AUTEUR avec le nom de l'auteur
+
+
+

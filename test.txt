@@ -1,0 +1,9 @@
+Test c#
+
+
+formation: 
+
+libelle: Tuto Python: APPRENDRE PYTHON
+Description: Apprenez grâce à ce tuto à vous servir comme un pro de Python
+identifiant video: oUJolR5bX6g
+image: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg

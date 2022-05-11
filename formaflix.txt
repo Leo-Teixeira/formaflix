@@ -1,0 +1,1 @@
+http://phpmyadmin.ap3.local.dombtsig.local/
